@@ -1,2 +1,3 @@
-versao=1
+versao=1.2
+
 mensagem=Olá mundo
